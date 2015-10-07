@@ -8,6 +8,8 @@ I have learnt the best practices in object oriented programming, web development
 
 # **Skills**
 
+easy to work with blabla
+
 I have built projects using primarily the following **web frameworks**:
 - **Ruby-on-Rails** blablabla link to instagram
 - **Sinatra** blabla link to randcast api
@@ -41,6 +43,24 @@ Higly selective 12 week intensive coding bootcamp.
 **99/110** in Bachelor of International Studies
 
 # **Experience**
+
+- Landscape designer and worker at EKG (link to company, expand)
+- intern at legal firm Bologna
+- Bookshop manager
+
+#Miscellaneous
+
+volunteering in Tajikistan, other(expand), maybe interests
+
+#info
+
+email
+phone
+twitter
+maybe personal website
+
+
+
 
 
 
