@@ -30,7 +30,8 @@ I have built my relational databases with **PostgreSQL** using **Datamapper** fo
 
 **Test Driven Development:** I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
 
-**Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups, deploying regularly with the aim of delivering an MVP quickly. I am very comfortable with **version control** software and git flow.
+**Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups, deploying regularly with the aim of delivering an MVP quickly.
+I am very comfortable with **version control** software and git flow.
 
 
 I am fascinated with **data visualization** and have been teaching myself **D3.js**
@@ -69,7 +70,8 @@ In 2008 I volunteered in a humanitarian, archeological and ethnolinguistic missi
 
 I also volunteered to promote the candidacy of my home town, Ravenna, to European Capital of Culture for 2019.
 
-I have a love for art, music(the 90s american indie underground is my thing), geopolitics and nonfiction podcasts. I also enjoy surfing, snowboarding and table tennis. 
+I have a love for art, music(the 90s american indie underground is my thing), geopolitics and nonfiction podcasts. 
+I also enjoy surfing, snowboarding and table tennis. 
 
 #**Personal Info**
 
