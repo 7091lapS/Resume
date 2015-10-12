@@ -22,7 +22,7 @@ I have worked on projects in **ruby** and **javascript/jquery**, have become fam
 
 I have built projects using the following frameworks:
 - **Sinatra** - Helped me gain a good understainding of REST and CRUD principles. ([Here](https://github.com/7091lapS/chitter-challenge) is my go at building a twitter clone, and [this](https://github.com/ShuflCast/podcast_api_sinatra) is an API I built as part of our final project).
-- **Ruby-on-Rails** - Became confident with MVC, model creation, ActiveRecord associations and migrations, AWS file storage. ([My Instagram clone](https://github.com/7091lapS/instagram-challenge)).   
+- **Ruby-on-Rails** - Became confident with MVC, model creation, ActiveRecord associations and migrations, Amazon Web Services file storage. ([My Instagram clone](https://github.com/7091lapS/instagram-challenge)).   
 - **AngularJs** - Became familiar with directives, services and filters and learned the advantages of using a js framework in the construction of one-page applications.
 - **Ionic** - Had to quickly learn the framework once we decided to build a mobile app ([rand(Cast)](https://github.com/ShuflCast/randCast)) for our final project.
 
@@ -30,7 +30,10 @@ I have built my relational databases with **PostgreSQL** using **Datamapper** fo
 
 **Test Driven Development** - I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
 
-**Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups to create and deliver mvps efficiently. I am very comfortable with **version control** software and git flow.
+**Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups, deploying regularly with the aim of delivering an MVP quickly. I am very comfortable with **version control** software and git flow.
+
+
+I am fascinated with **data visualization** and have been teaching myself **D3.js**
 
 # **Education**
 
