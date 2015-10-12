@@ -43,7 +43,7 @@ I am fascinated with **data visualization** and have been teaching myself **D3.j
 Higly selective 12 week intensive coding bootcamp.
 - Strong focus on pair programming, agile methodologies and BDD/TDD
 - Object oriented programming and best design practices
-- Full stack web development, creation ofrestful and single-page web apps.
+- Full stack web development, creation of restful and single-page web apps.
 
 ####Harvardx CS50 - Introduction to Computer Science (March 2015)
 
