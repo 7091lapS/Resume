@@ -28,7 +28,7 @@ I have built projects using the following frameworks:
 
 I have built my relational databases with **PostgreSQL** using **Datamapper** for my Sinatra projects and **ActiveRecord** for Rails.
 
-**Test Driven Development** - I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
+**Test Driven Development:** I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
 
 **Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups, deploying regularly with the aim of delivering an MVP quickly. I am very comfortable with **version control** software and git flow.
 
