@@ -8,7 +8,7 @@ At Makers Academy I started learning about the best practices in object oriented
 
 # **Skills**
 
-##**Team Player**
+####**Team Player**
 
 - I successfully pitched the idea for one of the final projects at Makers Academy: [rand(Cast)](https://github.com/ShuflCast/randCast), a mobile app built with Ionic that allows users to discover new podcast episodes based on their preferences and listen to them on the go.  
 - Worked with Agile methodologies to ensure all team members took part to all stages of the development of the app, with regular stand-up discussions and pairs swapping.
@@ -16,7 +16,7 @@ At Makers Academy I started learning about the best practices in object oriented
 - Helped circumventing the difficulties we encountered in making API calls with OmniAuth authentication (a new and unexplored topic at the time) by helping build [our own API](https://github.com/ShuflCast/podcast_api_sinatra) using the [Audiosear.ch SDK](https://github.com/popuparchive/audiosearch-client-ruby). 
 
 
-##**Languages and Web Frameworks**
+####**Languages and Web Frameworks**
 
 I have worked on projects in **ruby** and **javascript/jquery**, have become familiar with **html/css** and **Foundation**.
 
@@ -28,30 +28,30 @@ I have built projects using the following frameworks:
 
 I have built my relational databases with **PostgreSQL** using **Datamapper** for my Sinatra projects and **ActiveRecord** for Rails.
 
-**Test Driven Development - ** I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
+**Test Driven Development** - I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
 
 **Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups to create and deliver mvps efficiently. I am very comfortable with **version control** software and git flow.
 
 # **Education**
 
-##[Makers Academy](http://www.makersacademy.com) (July 2015 - October 2015)
+#### [Makers Academy](http://www.makersacademy.com) (July 2015 - October 2015)
 
 Higly selective 12 week intensive coding bootcamp.
 - Strong focus on pair programming, agile methodologies and BDD/TDD
 - Object oriented programming and best design practices
 - Full stack web development, creation ofrestful and single-page web apps.
 
-##Harvardx CS50 - Introduction to Computer Science (March 2015)
+####Harvardx CS50 - Introduction to Computer Science (March 2015)
 
 
-##University of New South Wales (2012 - 2013)
+####University of New South Wales (2012 - 2013)
 
-**Distinction** in [Master's of International Law and International Relations](http://www.law.unsw.edu.au/future-students/programs/master-international-law-international-relations)
+- **Distinction** in [Master's of International Law and International Relations](http://www.law.unsw.edu.au/future-students/programs/master-international-law-international-relations)
 
 
-##University of Bologna (2008 - 2011)
+####University of Bologna (2008 - 2011)
 
-**99/110** in Bachelor of International Studies
+- **99/110** in Bachelor of International Studies
 
 
 # **Experience**
