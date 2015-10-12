@@ -67,6 +67,8 @@ Higly selective 12 week intensive coding bootcamp.
 
 In 2008 I volunteered in a humanitarian, archeological and ethnolinguistic mission led by Prof. Antonio Panaino (University of Bologna) in the Yaghnob Valley, Tajikistan.
 
+I also volunteered to promote the candidacy of my home town, Ravenna, to European Capital of Culture for 2019.
+
 I have a love for art, music(the 90s american indie underground is my thing), geopolitics and nonfiction podcasts. I also enjoy surfing, snowboarding and table tennis. 
 
 #**Personal Info**
