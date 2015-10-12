@@ -30,38 +30,46 @@ I have built my relational databases with **PostgreSQL** using **Datamapper** fo
 
 **Test Driven Development - ** I test drive my projects with **Rspec**, **Capybara**, **FactoryGirl**, **PhantomJS**, **Jasmine**, **Karma**, **Protractor**.
 
-**Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborate in small groups to create and deliver mvps efficiently. I am very comfortable with **versioncontrol** software and the use of collaborative tools like waffle.io.
+**Agile Methodologies:** I have learnt to extrapolate user stories from customers' requests, pair programming on most projects and collaborating in small groups to create and deliver mvps efficiently. I am very comfortable with **version control** software and git flow.
 
 # **Education**
 
-##Makers Academy (July 2015 - October 2015)
+##[Makers Academy](http://www.makersacademy.com) (July 2015 - October 2015)
 
 Higly selective 12 week intensive coding bootcamp.
 - Strong focus on pair programming, agile methodologies and BDD/TDD
 - Object oriented programming and best design practices
 - Full stack web development, creation ofrestful and single-page web apps.
 
+##Harvardx CS50 - Introduction to Computer Science (March 2015)
+
+
 ##University of New South Wales (2012 - 2013)
 
-**Distinction** in Master's of International Law and International Relations
+**Distinction** in [Master's of International Law and International Relations](http://www.law.unsw.edu.au/future-students/programs/master-international-law-international-relations)
+
 
 ##University of Bologna (2008 - 2011)
 
 **99/110** in Bachelor of International Studies
 
+
 # **Experience**
 
-- Landscape designer and worker at EKG (link to company, expand)
-- intern at legal firm Bologna
+- Landscape designer and worker at [Edible Kids' Gardens](http://www.ediblekidsgardens.com.au)
+- International Maritime Law intern
 - Bookshop manager
 
-#Miscellaneous
+#**Miscellaneous and other interests**
 
-volunteering in Tajikistan, other(expand), maybe interests
+In 2008 I volunteered in a humanitarian, archeological and ethnolinguistic mission led by Prof. Antonio Panaino (University of Bologna) in the Yaghnob Valley, Tajikistan.
 
-#info
+I have a love for art, music(the 90s american indie underground is my thing), geopolitics and nonfiction podcasts. I also enjoy surfing, snowboarding and table tennis. 
 
-email
-phone
-twitter
-maybe personal website
+#**Personal Info**
+
+- Email: [antonio.v0c3@gmail.com](antonio.v0c3@gmail.com)
+- Phone UK: +44 7479322408 
+- Phone Italy: +39 3473607603
+- Twitter: [@7091laps](https://twitter.com/7091lapS)
+
